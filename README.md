@@ -6,12 +6,14 @@
 	<img src="./img/banner_hiring.png" alt="Banner Hiring" width="500" />
 </div>
 
+
 ## 📢 Vacantes abiertas
 
 - [Especialista Senior Java y Ciberseguridad](./Oferta_Senior_Java_Ciberseguridad.md)
 - [Ingeniero/a Funcional de Software – Sector Aeroportuario](./Oferta_Ingeniero_Funcional_Software.md)
 - [Consultor/a Senior PySpark – Proyecto BBVA AI Factory](./Oferta_Consultor_Senior_PySpark.md)
 - [Consultor/a IA Generativa – LLMs & RAG](./Oferta_Consultor_IA_Generativa.md)
+- [Data Engineer (Power BI & Dash) – Proyecto Internacional 100% REMOTO](./Oferta_Data_Engineer_Remoto.md)
 
 ¿Quieres saber más o conectar profesionalmente?
 👉 Conéctame en LinkedIn: [Ana Karen Gómez Núñez](https://linkedin.com/in/anakarengomeznuñez)
