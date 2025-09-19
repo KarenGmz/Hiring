@@ -78,3 +78,8 @@ linkedin.com/in/anakarengomeznuñez
 ⭐ ¿Te interesa pero no es tu perfil? Comparte este repositorio con alguien que pueda encajar
 </div>
 
+---
+
+**Proceso de selección:**
+Revisión de CV (1-2 días)
+

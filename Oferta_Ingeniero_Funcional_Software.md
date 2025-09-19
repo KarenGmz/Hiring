@@ -38,3 +38,8 @@
 
 ¿Quieres saber más o conectar profesionalmente?
 👉 Conéctame en LinkedIn: [Ana Karen Gómez Núñez](https://linkedin.com/in/anakarengomeznuñez)
+
+---
+
+**Proceso de selección:**
+Revisión de CV (1-2 días)
