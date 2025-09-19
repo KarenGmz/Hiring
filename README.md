@@ -1,11 +1,13 @@
 
 
+
 # Hiring
 
 <div align="center">
 	<img src="./img/banner_hiring.png" alt="Banner Hiring" width="500" />
 </div>
 
+---
 
 ## 📢 Vacantes abiertas
 
@@ -15,12 +17,10 @@
 - [Consultor/a IA Generativa – LLMs & RAG](./Oferta_Consultor_IA_Generativa.md)
 - [Data Engineer (Power BI & Dash) – Proyecto Internacional 100% REMOTO](./Oferta_Data_Engineer_Remoto.md)
 
+---
+
 ¿Quieres saber más o conectar profesionalmente?
 👉 Conéctame en LinkedIn: [Ana Karen Gómez Núñez](https://linkedin.com/in/anakarengomeznuñez)
-
-<div align="center">
-	<img src="https://img.freepik.com/vector-premium/seguridad-cibernetica-icono-escudo-candado_18660-1091.jpg" alt="Ciberseguridad" width="200" />
-</div>
 
 ---
 
