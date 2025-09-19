@@ -3,10 +3,12 @@ git add README.md
 git commit -m "Actualizo README con información de la vacante y LinkedIn"
 git push origin main
 
+
 ## 📢 Vacantes abiertas
 
 - [Especialista Senior Java y Ciberseguridad](./Oferta_Senior_Java_Ciberseguridad.md)
 - [Ingeniero/a Funcional de Software – Sector Aeroportuario](./Oferta_Ingeniero_Funcional_Software.md)
+- [Consultor/a Senior PySpark – Proyecto BBVA AI Factory](./Oferta_Consultor_Senior_PySpark.md)
 
 ¿Quieres saber más o conectar profesionalmente?
 👉 Conéctame en LinkedIn: [Ana Karen Gómez Núñez](https://linkedin.com/in/anakarengomeznuñez)
