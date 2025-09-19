@@ -9,6 +9,7 @@
 
 ---
 
+
 ## 📢 Vacantes abiertas
 
 - [Especialista Senior Java y Ciberseguridad](./Oferta_Senior_Java_Ciberseguridad.md)
@@ -16,6 +17,7 @@
 - [Consultor/a Senior PySpark – Proyecto BBVA AI Factory](./Oferta_Consultor_Senior_PySpark.md)
 - [Consultor/a IA Generativa – LLMs & RAG](./Oferta_Consultor_IA_Generativa.md)
 - [Data Engineer (Power BI & Dash) – Proyecto Internacional 100% REMOTO](./Oferta_Data_Engineer_Remoto.md)
+- [Consultor/a Python y Google Cloud Platform – Sector Financiero](./Oferta_Consultor_Python_GCP.md)
 
 ---
 
