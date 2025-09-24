@@ -8,7 +8,7 @@
 - [🧠 Consultor/a Senior PySpark/AWS – Proyecto BBVA AI Factory](Oferta_Consultor_Senior_PySpark.md)
 - [🌐 Data Engineer (Power BI & Dash) – Proyecto Internacional](Oferta_Data_Engineer_Remoto.md)
 - [🛫 Ingeniero/a Funcional de Software – Sector Aeroportuario](Oferta_Ingeniero_Funcional_Software.md)
-- [Senior Java Ciberseguridad](Oferta_Senior_Java_Ciberseguridad.md)
+- [🚀 Arquitecto Senior Java y Ciberseguridad](Oferta_Senior_Java_Ciberseguridad.md)
 
 ---
 
