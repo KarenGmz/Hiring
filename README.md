@@ -2,7 +2,7 @@
 
 ✨ Haz clic en una vacante para ver los detalles:
 
-- [Consultor IA Generativa](Oferta_Consultor_IA_Generativa.md)
+- [Consultor IA Generativa -– LLMs & RAG - sector bancario](Oferta_Consultor_IA_Generativa.md)
 - [Consultor Machine Learning LLM - Híbrido (1 día oficina)](Oferta_Consultor_Machine_Learning_LLM.md)
 - [Consultor Python GCP](Oferta_Consultor_Python_GCP.md)
 - [Consultor Senior PySpark](Oferta_Consultor_Senior_PySpark.md)
