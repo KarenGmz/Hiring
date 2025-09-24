@@ -1,4 +1,4 @@
-# 🚀 Especialista Senior Java y Ciberseguridad
+# 🚀 Arquitecto Senior Java y Ciberseguridad
 
 ¿Eres un experto en Java apasionado por la ciberseguridad? Únete a un proyecto de élite en el núcleo de la seguridad de la información para un líder del sector de soluciones de alta seguridad. Este no es un desarrollo convencional; es un desafío de alto impacto con tecnología de vanguardia.
 
