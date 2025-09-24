@@ -3,7 +3,7 @@
 ✨ Haz clic en una vacante para ver los detalles:
 
 - [Consultor IA Generativa](Oferta_Consultor_IA_Generativa.md)
-- [Consultor Machine Learning LLM](Oferta_Consultor_Machine_Learning_LLM.md)
+- [Consultor Machine Learning LLM - Híbrido (1 día oficina)](Oferta_Consultor_Machine_Learning_LLM.md)
 - [Consultor Python GCP](Oferta_Consultor_Python_GCP.md)
 - [Consultor Senior PySpark](Oferta_Consultor_Senior_PySpark.md)
 - [Data Engineer Remoto](Oferta_Data_Engineer_Remoto.md)
