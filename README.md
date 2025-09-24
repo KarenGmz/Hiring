@@ -2,50 +2,17 @@
 
 ✨ Haz clic en una vacante para ver los detalles:
 
-<details>
-  <summary>👩‍💻 Desarrollador Java</summary>
+- [Consultor IA Generativa](Oferta_Consultor_IA_Generativa.md)
+- [Consultor Machine Learning LLM](Oferta_Consultor_Machine_Learning_LLM.md)
+- [Consultor Python GCP](Oferta_Consultor_Python_GCP.md)
+- [Consultor Senior PySpark](Oferta_Consultor_Senior_PySpark.md)
+- [Data Engineer Remoto](Oferta_Data_Engineer_Remoto.md)
+- [Ingeniero Funcional Software](Oferta_Ingeniero_Funcional_Software.md)
+- [Senior Java Ciberseguridad](Oferta_Senior_Java_Ciberseguridad.md)
 
-  **Requisitos:**  
-  - Experiencia en Java 8+  
-  - Spring Boot  
-  - Bases de datos SQL  
-  **Ubicación:** Remoto  
-  **Contacto:** example@email.com
+---
 
-</details>
+¿Te interesa alguna vacante? ¡Envíame un mensaje directo por WhatsApp!
 
-<details>
-  <summary>🧑‍🔬 Data Engineer</summary>
-
-  **Requisitos:**  
-  - ETL, Big Data, Spark  
-  - Python o Scala  
-  - Cloud (AWS, GCP, Azure)  
-  **Ubicación:** Remoto  
-  **Contacto:** example@email.com
-
-</details>
-
-<details>
-  <summary>🛠️ QA Automation</summary>
-
-  **Requisitos:**  
-  - Selenium, Cucumber  
-  - Programación en Python o Java  
-  - CI/CD  
-  **Ubicación:** Remoto  
-  **Contacto:** example@email.com
-
-</details>
-
-<details>
-  <summary>🌐 Frontend React</summary>
-
-  **Requisitos:**  
-  - React.js  
-  - HTML, CSS, JavaScript  
-  - Consumo de APIs REST  
-  **Ubicación:** Remoto  
-  **Contacto:** example@email.com
-
-</details>
+📱 [Contactar por WhatsApp](https://wa.me/34628562481)  
+Número: +34 628 56 24 81
