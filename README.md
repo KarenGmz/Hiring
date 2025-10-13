@@ -9,6 +9,12 @@
 - [🌐 Data Engineer (Power BI & Dash) – Proyecto Internacional](Oferta_Data_Engineer_Remoto.md)
 - [🛫 Ingeniero/a Funcional de Software – Sector Aeroportuario](Oferta_Ingeniero_Funcional_Software.md)
 - [🚀 Arquitecto Senior Java y Ciberseguridad](Oferta_Senior_Java_Ciberseguridad.md)
+- Consultor/a Machine Learning - opción 100 % remota y otra vacante híbrida en Madrid (1 día oficina)
+- Consultores/as Senior Power BI
+- Consultor/a Senior Service Manager - sector bancario - 100 % remoto
+- Experto/a en Visión Artificial
+- Data Engineer - Azure synapse
+
 
 ---
 
